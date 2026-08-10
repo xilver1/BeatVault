@@ -1,0 +1,9 @@
+[submodule "bvault-infra"]
+	path = bvault-infra
+	url = git@github.com:xilver1/bvault-infra.git
+[submodule "bvault-app"]
+	path = bvault-app
+	url = git@github.com:xilver1/bvault-app.git
+[submodule "bvault-manifests"]
+	path = bvault-manifests
+	url = git@github.com:xilver1/bvault-manifests.git
