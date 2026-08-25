@@ -2,6 +2,11 @@
 .gradle/
 bvault-android-connect/app/build/
 local.properties
+
+# Rust
+target/
+Cargo.lock
+
 # OAuth Credentials
 gdrive_client_id.txt
 gdrive_client_secret.txt

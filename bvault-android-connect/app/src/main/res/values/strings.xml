@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeatVault Connect</string>
+    <string name="sync_cookies">Sync Cookies</string>
+    <string name="settings">Settings</string>
+    <string name="gateway_url">Gateway URL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
