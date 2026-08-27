@@ -3,6 +3,8 @@
 **A self-hosted music library and rekordbox-compatible USB export pipeline for DJs — running
 on a home-built, GitOps-managed Kubernetes platform.**
 
+<video src="https://github.com/user-attachments/assets/62beafc7-2bfa-4036-99af-3062948a2773" controls="controls" width="100%"></video>
+
 BeatVault does two things that normally require Pioneer's proprietary rekordbox software and a
 lot of manual file-shuffling. It gives you one central library you can fill from YouTube,
 local files or Google Drive, and it writes USB drives that plug straight into any club's CDJ —
