@@ -1,7 +1,6 @@
 # BeatVault
 
-**A self-hosted music library and rekordbox-compatible USB export pipeline for DJs — running
-on a home-built, GitOps-managed Kubernetes platform.**
+**A self-hosted DJ music platform that ingests, analyzes, stores and exports playlist-ready USBs directly to Pioneer CDJs — completely free of proprietary software.**
 
 https://github.com/user-attachments/assets/62beafc7-2bfa-4036-99af-3062948a2773
 
